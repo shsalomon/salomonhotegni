@@ -29,15 +29,6 @@ export const Contact = () => {
                   </a>
                 </div>
                 <div>
-                  <p className="text-accentLight font-semibold mb-2">Phone</p>
-                  <a
-                    href={`tel:${cvData.phone}`}
-                    className="text-white hover:text-accentLight transition-colors text-lg font-medium"
-                  >
-                    {cvData.phone}
-                  </a>
-                </div>
-                <div>
                   <p className="text-accentLight font-semibold mb-2">Location</p>
                   <p className="text-white text-lg">{cvData.location}</p>
                 </div>
