@@ -1,4 +1,4 @@
-# 🎉 Professional Portfolio Website - COMPLETE
+# Professional Portfolio Website ([Global Hack Week: Agents Week](https://ghw.mlh.com/schedule))
 
 Your professional portfolio website has been successfully created! Here's everything you need to know.
 
